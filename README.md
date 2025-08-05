@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2barquack
+- 👋 Hi, I’m @2barquack and I build websites
 - 👀 I’m interested in programming and Destiny 2
 - 🌱 I’m currently learning Server Side Coding
 - 💞️ I’m looking to collaborate on Website Projects
