@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2barquack and I build websites
-- 👀 I’m interested in programming and Destiny 2
+- 👀 I’m interested in programming and wrestling!
 - 🌱 I’m currently learning how to update websites on Github
 - 💞️ I’m looking to learn from my peers about how to build websites locally and publish them online with Github
 - 📫 How to reach me 2barquack.com
